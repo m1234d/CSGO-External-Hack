@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ProcMem.cpp
+  main.cpp
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(4): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(326): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(330): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(335): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(335): warning C4309: 'initializing': truncation of constant value
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(385): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\csgo-external\main.cpp(386): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SendKeys.cpp
+c:\users\matthew\downloads\sendkeys_cpp_src\sendkeys.cpp(2): warning C4005: '_tcscpy': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\tchar.h(1060): note: see previous definition of '_tcscpy'
+c:\users\matthew\downloads\sendkeys_cpp_src\sendkeys.cpp(613): warning C4551: function call missing argument list
+c:\users\matthew\downloads\sendkeys_cpp_src\sendkeys.cpp(618): warning C4551: function call missing argument list
+  Generating Code...
+  CSGO-External.vcxproj -> C:\Users\matthew\Documents\Visual Studio 2013\Projects\TestProject\Debug\CSGO-External.exe
+  CSGO-External.vcxproj -> C:\Users\matthew\Documents\Visual Studio 2013\Projects\TestProject\Debug\CSGO-External.pdb (Full PDB)

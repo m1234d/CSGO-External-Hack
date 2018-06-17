@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(4): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(326): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(330): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(335): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(335): warning C4309: 'initializing': truncation of constant value
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(385): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\matthew\documents\visual studio 2013\projects\testproject\testproject\main.cpp(386): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  TestProject.vcxproj -> C:\Users\matthew\Documents\Visual Studio 2013\Projects\TestProject\Debug\TestProject.exe
+  TestProject.vcxproj -> C:\Users\matthew\Documents\Visual Studio 2013\Projects\TestProject\Debug\TestProject.pdb (Full PDB)
